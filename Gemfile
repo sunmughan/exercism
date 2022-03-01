@@ -29,7 +29,7 @@ gem 'loofah'
 gem 'lmdb'
 gem 'octokit'
 gem "bugsnag"
-gem 'image_processing', '~> 1.2'
+gem 'image_processing', '~> 1.12'
 gem 'rest-client'
 gem 'rubyzip', require: false
 
