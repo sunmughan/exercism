@@ -119,9 +119,8 @@ GEM
       coffee-script-source
       execjs
     coffee-script-source (1.12.2)
-    commonmarker (0.20.1)
-      ruby-enum (~> 0.5)
-    concurrent-ruby (1.1.5)
+    commonmarker (0.23.4)
+    concurrent-ruby (1.1.9)
     crack (0.4.3)
       safe_yaml (~> 1.0.0)
     crass (1.0.4)
@@ -177,7 +176,7 @@ GEM
     htmlentities (4.3.4)
     http-cookie (1.0.3)
       domain_name (~> 0.5)
-    i18n (1.6.0)
+    i18n (1.10.0)
       concurrent-ruby (~> 1.0)
     image_processing (1.9.0)
       mini_magick (>= 4.9.3, < 5)
@@ -324,8 +323,6 @@ GEM
       http-cookie (>= 1.0.2, < 2.0)
       mime-types (>= 1.16, < 4.0)
       netrc (~> 0.8)
-    ruby-enum (0.7.2)
-      i18n
     ruby-vips (2.0.13)
       ffi (~> 1.9)
     ruby_dep (1.5.0)
